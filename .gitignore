@@ -1,0 +1,3 @@
+*.o
+libft_math.a
+obj/
